@@ -1,1 +1,1 @@
-sample push to the git adding line
+sample push to the git adding line.Changes to see conflicts.
